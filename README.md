@@ -1,1 +1,1 @@
-I am working on zero-day project from ALX africa, where I and a couple of my peers are mentored to #DOHARDTHINGS.  
+I am working on zero-day project from ALX africa, where I and a couple of my peers arebeing mentored to #DO-HARD-THINGS.This is a new phase for me and I am very excited to take up this challenge in a journey to be a successful software Engineer.  
